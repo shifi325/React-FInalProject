@@ -3,45 +3,45 @@ My final project in React.js
 
 I created a site for ordering games while maintaining a clean code combined with visuals that would be convenient for the user. First, the user is presented with a login/signIn page (of course with proper integrity checks). The user is then transferred to the products page where he can select the products he wants to purchase, add them to the shopping cart and access the payment. If the user typed an email and an administrator password, he will be presented with various options such as deleting and adding products to the site.
 The login/signIn page
-![צילום מסך 2024-06-05 183250](https://github.com/shifi325/Final-Project-React/assets/120665269/6f6cb1be-85db-4e6e-9f54-a6e036c28cca)
-
-![צילום מסך 2024-06-05 183337](https://github.com/shifi325/Final-Project-React/assets/120665269/e4451b14-cace-45e3-995b-9c83c0ae7fd4)
+![צילום מסך 2024-06-05 183250](https://github.com/shifi325/React-FinalProject/assets/120665269/638dc808-f625-4c76-b6e0-13053d51d349)
+![צילום מסך 2024-06-05 183337](https://github.com/shifi325/React-FinalProject/assets/120665269/e592ca30-8a24-4b21-a9b7-680cbf0852c7)
 
 The guest/customer's products page
 
-![צילום מסך 2024-06-07 140215](https://github.com/shifi325/Final-Project-React/assets/120665269/2e6cbb68-e964-47e8-a5a4-366f861c83e9)
+![צילום מסך 2024-06-05 182813](https://github.com/shifi325/React-FinalProject/assets/120665269/a34ae775-ffb8-417d-bce0-cf775c71bfc1)
+![צילום מסך 2024-06-05 183136](https://github.com/shifi325/React-FinalProject/assets/120665269/27dcc9ba-3161-47a5-b4d2-016c5cc0dc4e)
 
 
-![צילום מסך 2024-06-05 183136](https://github.com/shifi325/Final-Project-React/assets/120665269/6c6fcbcb-0315-42a3-8384-ba5ed371e77f)
 
 When adding a product open a small cart
 
-![צילום מסך 2024-06-05 183210](https://github.com/shifi325/Final-Project-React/assets/120665269/388f93af-7ef8-4973-a94c-068a95d3e385)
+![צילום מסך 2024-06-05 183210](https://github.com/shifi325/React-FinalProject/assets/120665269/c3cf3435-a3d5-4deb-ab16-bae0c11d1315)
 
 
 Payment page .
+![צילום מסך 2024-06-07 140714](https://github.com/shifi325/React-FinalProject/assets/120665269/a401bdc4-cf85-499b-93cc-8107ee6fa401)
 
-<img width="955" alt="צילום מסך 2024-06-07 140716" src="https://github.com/shifi325/Final-Project-React/assets/120665269/95f8f1aa-cdcd-4c5f-9233-6f223b2c0c3a">
 
 
 When he finishes the payment you will be able to come back.
-
-<img width="952" alt="צילום מסך 2024-06-07 140737" src="https://github.com/shifi325/Final-Project-React/assets/120665269/c9c1c9aa-b03b-486a-a743-0ffa3f635397">
-
+![צילום מסך 2024-06-07 140736](https://github.com/shifi325/React-FinalProject/assets/120665269/3dc29c21-75c7-4d87-8837-31219315ce3a)
 
 
 Admin
-The products page with update and deletion
-![צילום מסך 2024-06-07 140440](https://github.com/shifi325/Final-Project-React/assets/120665269/a3ff67b8-c6a9-4a19-8b0e-cf727b83af36)
+The products page with update and delete
+<img width="953" alt="צילום מסך 2024-06-07 140442" src="https://github.com/shifi325/React-FinalProject/assets/120665269/10b5f68c-ba6b-4b4d-8561-f5478c6f285d">
 
 
 Update/Add product.
-![צילום מסך 2024-06-07 140500](https://github.com/shifi325/Final-Project-React/assets/120665269/9ea133d2-abae-4743-8d24-af431820bf6b)
 
-![צילום מסך 2024-06-07 140548](https://github.com/shifi325/Final-Project-React/assets/120665269/d84e8f97-48ca-4606-a57b-afd317e0ef87)
+<img width="957" alt="צילום מסך 2024-06-07 140502" src="https://github.com/shifi325/React-FinalProject/assets/120665269/22d82f3e-db89-4429-9b4e-2d7702cf009f">
+<img width="955" alt="צילום מסך 2024-06-07 140550" src="https://github.com/shifi325/React-FinalProject/assets/120665269/40cd640a-ce08-4226-afd5-43abe19750c7">
 
 NavBar-Adjusted by user type:
-<img width="955" alt="image" src="https://github.com/shifi325/Final-Project-React/assets/120665269/b1b801d7-3ea4-43c7-bfd8-859c284a9cd6">
-<img width="952" alt="image" src="https://github.com/shifi325/Final-Project-React/assets/120665269/e7124f07-12f2-4c76-b979-a05ab55590c2">
-<img width="950" alt="image" src="https://github.com/shifi325/Final-Project-React/assets/120665269/ca217583-12b7-428c-bbd9-2984882fee77">
+![צילום מסך 2024-06-07 143654](https://github.com/shifi325/React-FinalProject/assets/120665269/4283d69b-595e-48b0-bd38-34c22d6eb5a0)
+
+<img width="954" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/23492d6e-4a39-4e7e-9bfc-7aac7ca124fa">
+
+<img width="954" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/35009453-1173-46d6-96bf-d632e040e9d7">
+
 
