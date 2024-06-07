@@ -46,18 +46,7 @@ function App() {
          <Route path="signin" element={<SignIn />}></Route> 
         <Route path="ProductList" element={<ProductList />}></Route>
        <Route path="ShoppingCart" element={<ShopCart/>}/>
-       {/* <Route path="guest" element={<Navbar/>}/> */}
        <Route path="navbar" element={<Navbar/>}/>
-{/* 
-       <Route path="usernav" element={<Navbar/>}/>
-       <Route path="adminnav" element={<Navbar/>}/> */}
-
-
-
-
-          {/*  <Route path="users" element={<Users />}></Route>
-          <Route path="listToDo" element={<ListToDo />}></Route>
-        </Route> */}
       </Routes>
     </BrowserRouter>
   </div> 
