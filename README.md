@@ -39,9 +39,7 @@ Update/Add product.
 
 NavBar-Adjusted by user type:
 <img width="955" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/ee1639e2-b444-4795-922d-5fd7e70ef931">
-
 <img width="954" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/23492d6e-4a39-4e7e-9bfc-7aac7ca124fa">
-
 <img width="954" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/35009453-1173-46d6-96bf-d632e040e9d7">
 
 
