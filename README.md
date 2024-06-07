@@ -38,8 +38,8 @@ Update/Add product.
 <img width="955" alt="צילום מסך 2024-06-07 140550" src="https://github.com/shifi325/React-FinalProject/assets/120665269/40cd640a-ce08-4226-afd5-43abe19750c7">
 
 NavBar-Adjusted by user type:
-<img width="955" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/ee1639e2-b444-4795-922d-5fd7e70ef931">
-<img width="954" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/23492d6e-4a39-4e7e-9bfc-7aac7ca124fa">
-<img width="954" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/35009453-1173-46d6-96bf-d632e040e9d7">
+<img width="946" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/5b394212-6cc6-4f92-91bb-89da21a03217">
+<img width="947" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/d10ac816-307e-49c6-b82c-4f6915a5790b">
+<img width="946" alt="image" src="https://github.com/shifi325/React-FinalProject/assets/120665269/c9c7d146-e8fb-44dc-b23d-ab852930839a">
 
 
